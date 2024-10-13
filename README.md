@@ -1,5 +1,5 @@
 Hacktoberfest 2024 🎉
-Welcome to our Hacktoberfest 2022 repository! This is a space for open-source contributions. We encourage you to dive in and make a difference! 💻🌍
+Welcome to our Hacktoberfest 2024 repository! This is a space for open-source contributions. We encourage you to dive in and make a difference! 💻🌍
 
 How to Contribute 🤝
 Fork the repo 🍴
